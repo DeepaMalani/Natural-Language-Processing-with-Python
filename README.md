@@ -1,3 +1,5 @@
+Spam Detection model
+
 - Used UCI SMS Spam collection DataSet to build a spam detection filter with python.
 
 - This dataset contains more than 5 thousand SMS phone messages labeled as spam or ham.
